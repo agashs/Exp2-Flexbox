@@ -4,7 +4,7 @@
 ## AIM
 To create a commercial website using CSS Flexbox.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create an HTML file (index.html)
 
